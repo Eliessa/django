@@ -1,0 +1,21 @@
+JAWABAN :
+1. REST sendiri adalah singkatan dari Representational State Transfer. Sedangkan REST juga memiliki
+definisi sendiri yaitu sebuah gaya arsitektur perangkat lunak yang berfungsi untuk memandu desain
+dan pengembangan arsitektur WWW. API singkatan dari antarmuka pemrograman aplikasi.
+REST juga memiliki beberapa metode yaitu:
+- GET
+- POST
+- PUT
+- DELETE
+- PATCH
+
+3. Headless Architecture adalah infrastruktur konten atau juga sistem manajemen konten.
+- keuntungan :
+	1. memiliki kebebasan memilih kerangka kerja front-end apa pun dan menggunakan layanan apa pun
+	yang dapat digunakan dalam proses pengembangan suatu website
+	2. skalabilitas, penyesuaian, dan peningkatan tidak terbatas dan tahan lama.
+	3. memiliki kecepatan atau akses yang stabil juga menghemat biaya.
+- kekurangan :
+	1. ketergantungan pada developer
+	2. cukup kompleks
+	3. masalah formatting
